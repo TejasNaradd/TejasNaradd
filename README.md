@@ -1,82 +1,45 @@
-## 🛠️ Technical Skills
+## 👨‍💻 Tech Stack
 
-### Programming Languages
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### Frontend Development
-- React.js
-- Redux Toolkit
-- Tailwind CSS
-- Responsive Web Design
-- React Router DOM
-
-### Backend Development
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-
-### Databases
-- MongoDB
-- Microsoft SQL Server
-
-### Tools & Platforms
-- Git & GitHub
-- Postman
-- Cloudinary
-- VS Code
-- IntelliJ IDEA
-- SQL Server Management Studio
-- Vercel
-
-### Core Concepts
-- API Integration
-- Authentication & Authorization
-- State Management
-- Client–Server Architecture
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-### 🔹 QuickChat — Real-Time Chat Application
-- Built a real-time chat platform using **React** for the frontend and **Node.js + Express.js** for the backend.
-- Implemented secure authentication and authorization using **JWT** and **bcrypt**.
-- Enabled real-time messaging and user connection management using **Socket.io**.
-- Integrated **MongoDB** for database operations.
-- Used **Cloudinary** for storing and managing media files.
-
-**Tech Stack:**  
-React, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT, bcrypt, Cloudinary
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 🔹 Note Saver — Notes Management Application
-- Developed a notes management application using **React**.
-- Managed application state using **Redux Toolkit**.
-- Implemented routing with **React Router DOM**.
-- Used **Local Storage** to persist notes as JSON key-value pairs.
-- Designed a responsive and clean UI using **Tailwind CSS**.
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Tech Stack:**  
-React, Redux Toolkit, Tailwind CSS, React Router DOM
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- **Introduction to Web Development with HTML, CSS, and JavaScript** – IBM (Coursera)  
-  Learned core web development fundamentals and client-side scripting for interactive applications.
-
-- **Developing Front-End Apps with React** – IBM (Coursera)  
-  Learned React fundamentals, hooks, and state management for building interactive UIs.
-
-- **Developing Back-End Apps with Node.js and Express** – IBM (Coursera)  
-  Learned server-side development using Node.js, Express, npm packages, and asynchronous programming.
-
-- **AICTE–EduSkills Data Engineering Virtual Internship**  
-  Completed a 10-week virtual internship focused on data engineering fundamentals and AWS cloud concepts.
+- IBM – Web Development with HTML, CSS & JavaScript  
+- IBM – Developing Front-End Apps with React  
+- IBM – Developing Back-End Apps with Node.js & Express  
+- AICTE–EduSkills Data Engineering Virtual Internship
