@@ -3,6 +3,7 @@
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,12 +35,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- IBM – Web Development with HTML, CSS & JavaScript  
-- IBM – Developing Front-End Apps with React  
-- IBM – Developing Back-End Apps with Node.js & Express  
-- AICTE–EduSkills Data Engineering Virtual Internship
+* IBM – Web Development with HTML, CSS & JavaScript
+* IBM – Developing Front-End Apps with React
+* IBM – Developing Back-End Apps with Node.js & Express
+* AWS – Cloud Foundations
+* AICTE–EduSkills Data Engineering Virtual Internship
